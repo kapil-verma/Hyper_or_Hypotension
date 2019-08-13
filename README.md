@@ -1,2 +1,2 @@
-# Hyper_or_Hypotension
+# Hypertension or Hypotension
 Classification of Patients with Abnormal Blood Pressure
