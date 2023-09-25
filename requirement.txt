@@ -1,5 +1,5 @@
 python==3.6.8
-pandas==2.1.0
+pandas==2.1.1
 matplotlib==3.7.1
 numpy==1.25.2
 seaborn==0.12.1
